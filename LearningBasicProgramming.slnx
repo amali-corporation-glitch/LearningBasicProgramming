@@ -5,6 +5,7 @@
   </Configurations>
   <Project Path="3. InputOutputAndStrings/3. InputOutputAndStrings.vcxproj" Id="6f115bef-e03e-40ea-97de-73754a6403b9" />
   <Project Path="4. ConditionalOperators/4. ConditionalOperators.vcxproj" Id="0bda109f-cbb8-4f63-ad22-27e9a2ded61c" />
+  <Project Path="5. Cycles/5. Cycles.vcxproj" Id="3a286030-da11-4052-8e26-8eda5f4dc1a8" />
   <Project Path="OperationsAndExpressions/OperationsAndExpressions.vcxproj" Id="f32b7bc1-5e3d-4782-8ecc-b727cb00fed3" />
   <Project Path="VariablesAndDataTypes/VariablesAndDataTypes.vcxproj" Id="e73b65ec-8774-40e0-bbe0-315101a773cd" />
 </Solution>
